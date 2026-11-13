@@ -6,8 +6,9 @@
 
 ## About Me
 
-- 💻 Building mobile and web experiences with Flutter and modern web technologies
-- 🌱 Currently learning Java
+- 🎓 M.Sc. Cyber Security student at the University of Worcester
+- 💻 Building mobile and web experiences with Flutter and modern technologies
+- 🌱 Learning more about cyber security, software development, and emerging technologies
 - 📫 Reach me at [alanjohn9626@gmail.com](mailto:alanjohn9626@gmail.com)
 
 ## Connect with me
