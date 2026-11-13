@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alan V John</h1>
 <p align="center">Software Developer · UI/UX Designer</p>
+<p align="center">
+  <a href="https://alanvjohn.vercel.app"><strong>🌐 Visit my portfolio</strong></a>
+</p>
 
 ## About Me
 
@@ -9,29 +12,15 @@
 
 ## Connect with me
 
-<p align="left">
-  <a href="https://twitter.com/alanvjohn"><img src="https://cdn.simpleicons.org/x/000000" alt="X" height="28" width="28" /></a>
-  <a href="https://linkedin.com/in/alan-v-john"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="28" width="28" /></a>
-  <a href="https://fb.com/alanvjohn.j"><img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="28" width="28" /></a>
-  <a href="https://instagram.com/alan__v__john"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="28" width="28" /></a>
-</p>
+[𝕏](https://twitter.com/alanvjohn) · [LinkedIn](https://linkedin.com/in/alan-v-john) · [Facebook](https://fb.com/alanvjohn.j) · [Instagram](https://instagram.com/alan__v__john)
 
 ## Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+**Mobile:** [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev) [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
 
-### ✍️ Random Dev Quote
+**Web:** [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 
-![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+**Backend & Data:** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
----
-
-[![Profile views](https://visitcount.itsvg.in/api?id=alanvjohn&icon=10&color=13)](https://visitcount.itsvg.in)
+<p align="center">✨ Always learning, building, and improving.</p>
 
